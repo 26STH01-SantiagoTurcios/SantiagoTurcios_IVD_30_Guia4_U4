@@ -1,0 +1,16 @@
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\bin\Debug\net8.0-windows\Problema10.exe
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\bin\Debug\net8.0-windows\Problema10.deps.json
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\bin\Debug\net8.0-windows\Problema10.runtimeconfig.json
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\bin\Debug\net8.0-windows\Problema10.dll
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\bin\Debug\net8.0-windows\Problema10.pdb
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\obj\Debug\net8.0-windows\Problema10.Form1.resources
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\obj\Debug\net8.0-windows\Problema10.csproj.GenerateResource.cache
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\obj\Debug\net8.0-windows\Problema10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\obj\Debug\net8.0-windows\Problema10.AssemblyInfoInputs.cache
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\obj\Debug\net8.0-windows\Problema10.AssemblyInfo.cs
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\obj\Debug\net8.0-windows\Problema10.csproj.CoreCompileInputs.cache
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\obj\Debug\net8.0-windows\Problema10.dll
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\obj\Debug\net8.0-windows\refint\Problema10.dll
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\obj\Debug\net8.0-windows\Problema10.pdb
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\obj\Debug\net8.0-windows\Problema10.genruntimeconfig.cache
+C:\Users\santi\Downloads\Problema10\Problema10\Problema10\obj\Debug\net8.0-windows\ref\Problema10.dll
